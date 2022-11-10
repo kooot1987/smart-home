@@ -1,1 +1,1 @@
-# smart-home
+# smart-home (without adaptation)
